@@ -1,0 +1,1 @@
+web: ./create_gcp_service_key.sh && cd server && mkdir resumes && uvicorn app.main:app --host=0.0.0.0 --port=${PORT}

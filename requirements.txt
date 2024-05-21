@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+email-validator
+python-multipart
+jinja2
+aiofiles
+passlib[bcrypt]
+python-dotenv
+asyncpg
+psycopg2
+pyjwt
+pydantic-settings
+sendgrid
+google-cloud-storage

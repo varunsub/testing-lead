@@ -1,0 +1,25 @@
+1. Next.js:
+    Flexible framework with the power of SSR and an SPA. 
+    It intergrates really well with my favorite state management library TanStack (formerly react-query).
+    Allows ultimate flexibility on the front end and easy deployment with Vercel.
+
+2. Postgres:
+    A part of Alma's stack.
+    Powerful relational database with large community and good support.
+
+3. GCloud:
+    Simple cloud hosting for buckets and uploads.
+    Less boilerplate than S3 in my experience.
+
+4. Sendgrid:
+    Supported by Twilio with a good amount of third party documentation.
+
+5. Heroku:
+    I regret it. It was a horrible choice.
+
+6. Vercel:
+    Great integration with Next.js.
+    Clean UI and seemeless github integration and deployment.
+
+7. Design choices front end:
+    Since nothing is meant to be SSO friendly, implementing SSR was not a priority.
